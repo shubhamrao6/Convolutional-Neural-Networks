@@ -8,9 +8,11 @@ CNN model to classify images of cats and dogs.
                                    
 ![](Model_1.jpg)
 
-The model **Overfitted.
+The model **Overfitted**.
                                                
 * ## Model- 1(b):
   * Previous model with Dropout                                                          
                            
-![](Model_2.jpg)
+![](Model_2.jpg)                                           
+
+This model **Overfitted** to but with less Training accuracy.
