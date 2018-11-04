@@ -15,4 +15,4 @@ The model **Overfitted**.
                            
 ![](Model_2.jpg)                                           
 
-This model **Overfitted** to but with less Training accuracy.
+This model **Overfitted** too but with less Training accuracy.
