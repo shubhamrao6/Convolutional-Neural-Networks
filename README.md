@@ -24,4 +24,14 @@ This model **Overfitted** too but with less Training accuracy.
    
    ![](Model_3.jpg)                                                              
    
-   This model was also starting to **Overfit**. 
+   This model was also starting to **Overfit**.                             
+   
+* ## Model - 4:
+  * Three Convolutional Layer with a poolng layer each
+  * Single fully connected layers with large number of units with a large dropout rate
+  * Single output layer                                                                  
+  
+  ![](Model_4.jpg)                    
+  Model with an accuracy of **86%**.                                                        
+  The accuracy may increase with the increase in the number of epochs. 
+  
